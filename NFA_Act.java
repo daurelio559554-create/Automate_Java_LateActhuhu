@@ -1,6 +1,5 @@
 package NFA;
-
-
+//bba rejected while aab is accepted T~T sorry late ma'am 
 	import java.util.*;
 
 	public class NFA_Act {
@@ -52,5 +51,6 @@ package NFA;
 	        sc.close();
 	    }
 	}
+
 
 
